@@ -1,0 +1,43 @@
+body{
+background-color:Salmon
+}
+
+header a{
+border: 3px solid gray;
+border-radius: 10px;
+}
+
+header h2{
+text-align:center;
+}
+
+header h1{
+text-align:center;
+}
+
+main h3{
+text-align:center;
+colot:gray;
+}
+
+main b{
+text-align:center;
+
+}
+
+table,tr,td{
+text-align:center;
+margin:auto;
+border:1px solid;
+}
+
+footer{
+    text-align: center;
+}
+
+footer table,td{
+border-collapse:collapse;
+border:1px solid;
+text-align:center;
+background-color:Coral;
+}
